@@ -1,0 +1,228 @@
+Date,Transaction Details,Amount,Transaction Type,Card,Category
+29-05-2023,fresh and quality g hyderabad in,115,DR,ICICI CC,Grocery
+30-05-2023,amazon in,1719.4,DR,ICICI CC,Shopping
+30-05-2023,amazon in,1469,DR,ICICI CC,Shopping
+30-05-2023,amazon in,1719.4,CR,ICICI CC,Shopping
+02-06-2023,amazon in,449,DR,ICICI CC,Shopping
+02-06-2023,amazon in,1269.4,DR,ICICI CC,Shopping
+02-06-2023,amazonin grocery in,521,DR,ICICI CC,Well Being
+02-06-2023,spotify si mumbai in,59,DR,ICICI CC,Subscription
+03-06-2023,dmart avenue supermart hyderabad in,6269,DR,ICICI CC,Grocery
+04-06-2023,amazonin grocery in,199,DR,ICICI CC,Well Being
+05-06-2023,amazon in,1799,DR,ICICI CC,Shopping
+08-06-2023,avenue supermarts ltd hyderabad in,5760.92,DR,ICICI CC,Grocery
+09-06-2023,raja wines hyderabad in,2320,DR,ICICI CC,Food and Drinks
+12-06-2023,upi payment received,248,CR,ICICI CC,Credit Card Payment
+11-06-2023,amazonin grocery in,581.4,DR,ICICI CC,Well Being
+11-06-2023,amazon in,2199,DR,ICICI CC,Shopping
+17-06-2023,amazonin grocery in,320,DR,ICICI CC,Well Being
+18-06-2023,amazon in,1461,DR,ICICI CC,Shopping
+22-06-2023,shivsagar restaurant ba mumbai in,1835,DR,ICICI CC,Food and Drinks
+02-05-2023 00:00,amazonin grocery in,239,DR,ICICI CC,Well Being
+02-05-2023 00:00,spotify si mumbai in,59,DR,ICICI CC,Subscription
+09-05-2023 00:00,amazonin grocery in,239,CR,ICICI CC,Well Being
+11-05-2023 00:00,upi payment received,1790.74,CR,ICICI CC,Credit Card Payment
+11-05-2023 00:00,amazon in,189,DR,ICICI CC,Shopping
+29-07-2023 00:00,paytm noida in,401.08,DR,ICICI CC,Movie
+29-07-2023 00:00,paytm noida in,401.08,DR,ICICI CC,Movie
+29-07-2023 00:00,paytm noida in,401.08,CR,ICICI CC,Movie
+29-07-2023 00:00,paytm noida in,401.08,CR,ICICI CC,Movie
+05-08-2023 00:00,amazon in,369,DR,ICICI CC,Shopping
+06-08-2023 00:00,motocruizer technologies mumbai in,788,DR,ICICI CC,Travel
+07-08-2023 00:00,zudio a unit of trent hyderabad in,699,DR,ICICI CC,Shopping
+12-08-2023 00:00,upi payment received,14956.92,CR,ICICI CC,Credit Card Payment
+12-08-2023 00:00,qaffeine hyderabad in,258,DR,ICICI CC,Food and Drinks
+12-08-2023 00:00,amazeus foods india l bangalore in,399,DR,ICICI CC,Food and Drinks
+12-08-2023 00:00,whiz foods private lim delhi in,70,DR,ICICI CC,Food and Drinks
+12-08-2023 00:00,minerva coffee shop hyderabad in,325,DR,ICICI CC,Food and Drinks
+13-08-2023 00:00,hennes n mauritz hyderabad in,3897,DR,ICICI CC,Shopping
+13-08-2023 00:00,ikea india pvt ltd hyderabad in,1026,DR,ICICI CC,Shopping
+13-08-2023 00:00,minerva coffee shop hyderabad in,402,DR,ICICI CC,Food and Drinks
+13-08-2023 00:00,westside hyderabad in,3197,DR,ICICI CC,Shopping
+14-08-2023 00:00,amazonin grocery in,1460,DR,ICICI CC,Well Being
+14-08-2023 00:00,amazonin grocery in,634,DR,ICICI CC,Well Being
+14-08-2023 00:00,polar bear hyderabad in,117,DR,ICICI CC,Food and Drinks
+15-08-2023 00:00,ikea india pvt ltd hyderabad in,80,DR,ICICI CC,Shopping
+15-08-2023 00:00,ikea india pvt ltd hyderabad in,3224,DR,ICICI CC,Shopping
+15-08-2023 00:00,broadway hyderabad in,1150,DR,ICICI CC,Food and Drinks
+19-08-2023 00:00,amazonin grocery in,599,DR,ICICI CC,Well Being
+26-08-2023 00:00,meeraki fashion mumbai in,3000,DR,ICICI CC,Shopping
+27-08-2023 00:00,zomato gurgaon in,1116.4,DR,ICICI CC,Food and Drinks
+01-07-2023 00:00,upi payment received,26626.72,CR,ICICI CC,Credit Card Payment
+02-07-2023 00:00,amazonin grocery in,311.6,DR,ICICI CC,Well Being
+02-07-2023 00:00,spotify si mumbai in,59,DR,ICICI CC,Subscription
+04-07-2023 00:00,paytm_flipkartinternet bangalore in,3398,DR,ICICI CC,Shopping
+08-07-2023 00:00,amazon in,149,DR,ICICI CC,Shopping
+12-07-2023 00:00,avenue supermarts ltdd hyderabad in,4015.94,DR,ICICI CC,Grocery
+15-07-2023 00:00,amazon in,1782,DR,ICICI CC,Shopping
+15-07-2023 00:00,amazon in,2199,DR,ICICI CC,Shopping
+15-07-2023 00:00,youtube mumbai in,1290,DR,ICICI CC,Subscription
+15-07-2023 00:00,razelitehubs mumbai in,999,DR,ICICI CC,Shopping
+16-07-2023 00:00,amazon pay india privatet bangalore in,419,DR,ICICI CC,Shopping
+16-07-2023 00:00,amazon pay india privatet bangalore in,174.28,DR,ICICI CC,Shopping
+17-07-2023 00:00,paytm_flipkartinternet bangalore in,1709,DR,ICICI CC,Shopping
+22-07-2023 00:00,amazon in,160.1,DR,ICICI CC,Shopping
+25-07-2023 00:00,paytm_flipkartinternet bangalore in,1709,CR,ICICI CC,Shopping
+17-07-2023 13:38,swiggy bengaluru,192,DR,HDFC CC,Food and Drinks
+17-07-2023 00:17,paytm_cleartripprivate mumbai,"2,736.00",DR,HDFC CC,Travel
+17-07-2023 18:00,gokwik commerce sol south west,399.1,DR,HDFC CC,Grocery
+18-07-2023,on all dcc transaction rev ref st,6.99,CR,HDFC CC,
+18-07-2023,on all dcc transaction ref st,10.99,DR,HDFC CC,
+18-07-2023,igstvpsrate ref st,1.98,DR,HDFC CC,
+19-07-2023 20:33,swiggy bangalore,528,DR,HDFC CC,Food and Drinks
+19-07-2023 20:39,uengage,656.25,DR,HDFC CC,Food and Drinks
+19-07-2023,swiggy chennai ref vt,528,CR,HDFC CC,Food and Drinks
+20-07-2023 17:12,grofers india private lbangalore,357,DR,HDFC CC,Grocery
+22-07-2023 13:56,grofers india private bangalore,238,DR,HDFC CC,Grocery
+24-07-2023 20:31,swiggy bangalore,217,DR,HDFC CC,Food and Drinks
+26-07-2023 21:47,paytm_cleartripprivate mumbai,"9,609.00",DR,HDFC CC,Travel
+27-07-2023 15:09,swiggy bangalore,412,DR,HDFC CC,Food and Drinks
+27-07-2023 22:02,swiggy bengaluru,160,DR,HDFC CC,Food and Drinks
+29-07-2023 23:35,swiggy bangalore,124,DR,HDFC CC,Food and Drinks
+30-07-2023 21:20,swiggy bengaluru,331,DR,HDFC CC,Food and Drinks
+31-07-2023 20:17,swiggy instamart bangalore,175,DR,HDFC CC,Grocery
+01-08-2023 15:31,imps pmt ref,"11,028.00",CR,HDFC CC,Credit Card Payment
+01-08-2023 00:32,swiggy bengaluru,156,DR,HDFC CC,Food and Drinks
+03-08-2023 19:47,swiggy bengaluru,598,DR,HDFC CC,Food and Drinks
+04-08-2023 19:20,mswfresh and quality g kvrangar,376,DR,HDFC CC,Grocery
+04-08-2023 20:23,swiggy bengaluru,471,DR,HDFC CC,Food and Drinks
+04-08-2023 20:00,swiggy instamart bangalore,213,DR,HDFC CC,Grocery
+04-08-2023 15:27,airca career insti jaipur,"6,499.00",DR,HDFC CC,Gifts
+08-08-2023 20:35,swiggy bengaluru,347,DR,HDFC CC,Food and Drinks
+09-08-2023 15:03,swiggy bengaluru,197,DR,HDFC CC,Food and Drinks
+10-08-2023 21:18,paytm,204,DR,HDFC CC,Movie
+11-08-2023 20:45,swiggy bengaluru,186,DR,HDFC CC,Food and Drinks
+11-08-2023 00:23,netflix netflix,199,DR,HDFC CC,Subscription
+12-08-2023 22:03,swiggy dineout bangalore,"1,197.00",DR,HDFC CC,Food and Drinks
+12-08-2023 18:57,grofers india private bangalore,234,DR,HDFC CC,Grocery
+12-08-2023 19:28,phonepe utility bangalore,"1,029.66",DR,HDFC CC,Utility
+13-08-2023 20:32,swiggy bengaluru,874,DR,HDFC CC,Food and Drinks
+13-08-2023 20:34,swiggy bengaluru,911,DR,HDFC CC,Food and Drinks
+13-08-2023,swiggy tech ref vt,874,CR,HDFC CC,Food and Drinks
+14-08-2023 09:28,nykaa gurgaon,541,DR,HDFC CC,Well Being
+14-08-2023 12:50,grofers india private bangalore,221,DR,HDFC CC,Food and Drinks
+16-08-2023 13:08,swiggy bengaluru,197,DR,HDFC CC,Food and Drinks
+19-06-2023 09:43,myjio mumbai,650,DR,HDFC CC,Subscription
+19-06-2023 19:07,karachi bakery hyderabad,640,DR,HDFC CC,Food and Drinks
+20-06-2023 17:16,swiggy bangalore,999,DR,HDFC CC,Food and Drinks
+22-06-2023 13:16,swiggy bengaluru,283,DR,HDFC CC,Food and Drinks
+23-06-2023 21:11,best wine cellar mumbai,1520,DR,HDFC CC,Food and Drinks
+24-06-2023 09:28,swiggy bengaluru,159,DR,HDFC CC,Food and Drinks
+24-06-2023 22:01,swiggy bangalore,144,DR,HDFC CC,Food and Drinks
+24-06-2023 19:26,pop tates ville parle mumbai,607,DR,HDFC CC,Food and Drinks
+28-06-2023 22:02,steamgamescom,479,DR,HDFC CC,Games
+29-06-2023 20:28,swiggy bengaluru,189,DR,HDFC CC,Food and Drinks
+30-06-2023 21:21,swiggy bangalore,177,DR,HDFC CC,Food and Drinks
+,igstvpsrate ref st,0.86,DR,HDFC CC,
+,on all dcc transaction ref st,4.79,DR,HDFC CC,
+30-06-2023 23:01,swiggy bengaluru,226,DR,HDFC CC,Food and Drinks
+01-07-2023 23:01,swiggy bengaluru,177,DR,HDFC CC,Food and Drinks
+01-07-2023 15:58,imps pmt ref,12940,CR,HDFC CC,Credit Card Payment
+02-07-2023 17:28,swiggy instamart bangalore,277,DR,HDFC CC,Grocery
+04-07-2023 21:34,swiggy bengaluru,214,DR,HDFC CC,Food and Drinks
+06-07-2023 20:29,zudio a unit of trent lhyderabad,609,DR,HDFC CC,Shopping
+06-07-2023 21:24,wow momo forum sujana malhyderabad,303,DR,HDFC CC,Food and Drinks
+06-07-2023 21:09,life style internationahyderabad,1399,DR,HDFC CC,Shopping
+07-07-2023 21:52,uengage,834.75,DR,HDFC CC,Food and Drinks
+08-07-2023 19:31,swiggy instamart bangalore,281,DR,HDFC CC,Grocery
+11-07-2023 22:23,netflix mumbai,199,DR,HDFC CC,Subscription
+13-07-2023 22:01,steam purchase seattle,899,DR,HDFC CC,Games
+13-07-2023 22:11,steam purchase seattle,200,DR,HDFC CC,Games
+,steam purchase seattle,699,CR,HDFC CC,Games
+15-07-2023 12:25,swiggy instamart bangalore,256,DR,HDFC CC,Grocery
+20-05-2023 11:38,swiggy bangalore,420,DR,HDFC CC,Food and Drinks
+21-05-2023 19:07,swiggy bangalore,148,DR,HDFC CC,Food and Drinks
+21-05-2023 14:51,nobroker janitorial cybbengaluru,949,DR,HDFC CC,Utility
+27-05-2023 12:26,dmart avenue supermartshyderabad,"4,026.30",DR,HDFC CC,Grocery
+28-05-2023 19:21,swiggy bengaluru,164,DR,HDFC CC,Food and Drinks
+01-06-2023 20:45,swiggy bengaluru,283,DR,HDFC CC,Food and Drinks
+02-06-2023 15:22,imps pmt ref,"13,854.00",CR,HDFC CC,Credit Card Payment
+02-06-2023 15:22,paytm noida,"2,474.46",DR,HDFC CC,Flight
+03-06-2023 23:22,swiggy bengaluru,304,DR,HDFC CC,Food and Drinks
+04-06-2023 13:46,swiggy bangalore,566,DR,HDFC CC,Food and Drinks
+05-06-2023 21:55,swiggy bangalore,264,DR,HDFC CC,Food and Drinks
+07-06-2023 21:36,swiggy bangalore,315,DR,HDFC CC,Food and Drinks
+08-06-2023 23:09,swiggy bengaluru,128,DR,HDFC CC,Food and Drinks
+08-06-2023 21:51,swiggy bangalore,399,DR,HDFC CC,Food and Drinks
+09-06-2023 21:33,uengage,908.25,DR,HDFC CC,Food and Drinks
+11-06-2023 19:25,bonkers corner thane,"1,295.42",DR,HDFC CC,Shopping
+12-06-2023 20:04,ratnadeep super market hyderabad,295.05,DR,HDFC CC,Grocery
+29-08-2023 00:00,mc donalds mumbai in,178,DR,ICICI CC,Food and Drinks
+03-09-2023 00:00,zomato new delhi in,620.5100098,DR,ICICI CC,Food and Drinks
+04-09-2023 00:00,zomato media private l in,181.1000061,DR,ICICI CC,Food and Drinks
+04-09-2023 00:00,amazon in,787,DR,ICICI CC,Shopping
+06-09-2023 00:00,amazon in,399,CR,ICICI CC,Refund
+06-09-2023 00:00,zomato gurgaon in,136.1000061,DR,ICICI CC,Food and Drinks
+08-09-2023 00:00,upi payment received,22810.40039,CR,ICICI CC,Credit Card Payment
+10-09-2023 00:00,zomato new delhi in,165.1600037,DR,ICICI CC,Food and Drinks
+12-09-2023 00:00,zomato gurgaon in,124.4599991,DR,ICICI CC,Food and Drinks
+13-09-2023 00:00,zomato media pvt ltd gurgaon in,96.83000183,DR,ICICI CC,Food and Drinks
+15-09-2023 00:00,karachi bakery hyderabad in,1185,DR,ICICI CC,Gifts
+24-09-2023 00:00,zomato media pvt ltd gurgaon in,127.5599976,DR,ICICI CC,Food and Drinks
+25-09-2023 00:00,indamazon in,2192,DR,ICICI CC,Shopping
+25-09-2023 00:00,zomato ltd in,161.1100006,DR,ICICI CC,Food and Drinks
+26-09-2023 00:00,indamazon in,155,DR,ICICI CC,Shopping
+18-08-2023,nykaa gurgaon,541,CR,HDFC CC,Well Being
+23-08-2023 16:15,cleartrip private limitedmumbai,"2,458.00",DR,HDFC CC,Travel
+25-08-2023 16:42,zomato media private l,151.6,DR,HDFC CC,Food and Drinks
+25-08-2023 09:30,zomato media pvt ltd gurgaon,263.45,DR,HDFC CC,Food and Drinks
+25-08-2023 20:53,zomato media pvt ltd gurgaon,889.23,DR,HDFC CC,Food and Drinks
+26-08-2023 16:10,chaayos vile parle mum mumbai,188,DR,HDFC CC,Food and Drinks
+27-08-2023 17:13,zomato media pvt ltd gurgaon,100,DR,HDFC CC,Food and Drinks
+28-08-2023 17:19,zomato media private l,47.2,DR,HDFC CC,Food and Drinks
+30-08-2023 10:26,paytm app noida,"5,778.00",DR,HDFC CC,Travel
+30-08-2023 10:23,paytm app noida,"6,451.00",DR,HDFC CC,Travel
+02-09-2023 12:27,zomato media pvt ltd gurgaon,196.8,DR,HDFC CC,Food and Drinks
+03-09-2023 11:30,imps pmt ref,"29,389.00",CR,HDFC CC,Credit Card Payment
+03-09-2023 14:44,zomato media private l,415.86,DR,HDFC CC,Food and Drinks
+04-09-2023,cashback for redemption of po ref st,771,CR,HDFC CC,Interest
+07-09-2023 22:24,paytm app noida,"5,472.00",DR,HDFC CC,Travel
+11-09-2023 23:41,netflix netflix,199,DR,HDFC CC,Subscription
+11-09-2023 13:14,reliance jio infocomm lnoida,824.82,DR,HDFC CC,Utility
+14-09-2023 11:29,amazon pay india priva bangalore,"2,336.00",DR,HDFC CC,Utility
+2023-09-28 21:47:54,razboonggcom pune,"1,299.00",DR,HDFC CC,Travel
+2023-09-30 14:41:41,chowmoholla palace tru hyderabad,250.00,DR,HDFC CC,Travel
+2023-09-30 18:46:51,grofers india private bangalore,202.00,DR,HDFC CC,Grocery
+2023-10-02 20:19:00,burgerman hyderabad,696.00,DR,HDFC CC,Food and Drinks
+2023-10-02 19:16:27,karachi bakery hyderabad,270.00,DR,HDFC CC,Food and Drinks
+2023-10-04 10:26:45,imps pmt ref,"24,459.00",CR,HDFC CC,Credit Card Payment
+2023-10-07 18:02:14,reliance jio infocomm noida,824.82,DR,HDFC CC,Utility
+2023-10-11 22:48:32,netflix netflix,199.00,DR,HDFC CC,Subscription
+2023-09-28 00:00:00,zomato media pvt ltd gurgaon in,201.30999755859375,DR,ICICI CC,Food and Drinks
+2023-09-29 00:00:00,sivam auto hitec city hyderabad in,211.8000030517578,DR,ICICI CC,Travel
+2023-10-01 00:00:00,reversal of fuel surcharge,10.0,CR,ICICI CC,
+2023-10-01 00:00:00,sgstrevci,0.8999999761581421,CR,ICICI CC,
+2023-10-01 00:00:00,cgstrevci,0.8999999761581421,CR,ICICI CC,
+2023-09-30 00:00:00,coco hitech city iocl hyderabad in,261.79998779296875,DR,ICICI CC,Travel
+2023-10-01 00:00:00,reversal of fuel surcharge,10.0,CR,ICICI CC,
+2023-10-01 00:00:00,sgstrevci,0.8999999761581421,CR,ICICI CC,
+2023-10-01 00:00:00,cgstrevci,0.8999999761581421,CR,ICICI CC,
+2023-09-30 00:00:00,minerva coffee shop hyderabad in,455.0,DR,ICICI CC,Food and Drinks
+2023-10-01 00:00:00,ratnadeep super market hyderabad in,488.44000244140625,DR,ICICI CC,Grocery
+2023-10-01 00:00:00,ratnadeep super market hyderabad in,75.0,DR,ICICI CC,Grocery
+2023-10-01 00:00:00,sree venkateswara fill rangareddy in,252.5,DR,ICICI CC,Travel
+2023-10-01 00:00:00,zomato new delhi in,1014.8200073242188,DR,ICICI CC,Food and Drinks
+2023-10-02 00:00:00,reversal of fuel surcharge,2.5,CR,ICICI CC,
+2023-10-02 00:00:00,forever hyderabad in,1499.010009765625,DR,ICICI CC,Gift
+2023-10-02 00:00:00,zomato gurgaon in,341.010009765625,DR,ICICI CC,Food and Drinks
+2023-10-02 00:00:00,cookieman hyderabad in,210.0,DR,ICICI CC,Food and Drinks
+2023-10-04 00:00:00,zomato media pvt ltd gurgaon in,420.3800048828125,DR,ICICI CC,Food and Drinks
+2023-10-10 00:00:00,upi payment received,5710.830078125,CR,ICICI CC,Credit Card Payment
+2023-10-10 00:00:00,zomato new delhi in,177.83999633789062,DR,ICICI CC,Food and Drinks
+2023-10-08 00:00:00,indamazon in,284.20001220703125,DR,ICICI CC,Shopping
+2023-10-08 00:00:00,indamazon in,2599.0,DR,ICICI CC,Shopping
+2023-10-08 00:00:00,indamazon in,899.0,DR,ICICI CC,Shopping
+2023-10-08 00:00:00,zomato media pvt ltd gurgaon in,423.92999267578125,DR,ICICI CC,Food and Drinks
+2023-10-09 00:00:00,indamazonin bill p in,1866.0,DR,ICICI CC,Shopping
+2023-10-09 00:00:00,zomato new delhi in,112.16000366210938,DR,ICICI CC,Food and Drinks
+2023-10-12 00:00:00,zomato new delhi in,292.1600036621094,DR,ICICI CC,Food and Drinks
+2023-10-13 00:00:00,indamazonin grocer in,539.0499877929688,DR,ICICI CC,Well Being
+2023-10-15 00:00:00,indamazon in,899.0,CR,ICICI CC,Refund
+2023-10-18 00:00:00,zomato media pvt ltd gurgaon in,181.49000549316406,DR,ICICI CC,Food and Drinks
+2023-10-21 00:00:00,zomato gurgaon in,171.38999938964844,DR,ICICI CC,Food and Drinks
+2023-10-20 00:00:00,zomato new delhi in,463.44000244140625,DR,ICICI CC,Food and Drinks
+2023-10-21 00:00:00,life style internation mumbai in,1856.0,DR,ICICI CC,Shopping
+2023-10-23 00:00:00,zomato ltd in,267.9800109863281,DR,ICICI CC,Food and Drinks
+2023-10-24 00:00:00,kamalkumar piyushkumar mumbai in,360.0,DR,ICICI CC,Food and Drinks
+2023-10-24 00:00:00,pizza by the bay mumbai in,3040.0,DR,ICICI CC,Food and Drinks
+2023-10-26 00:00:00,zomato gurgaon in,203.02000427246094,DR,ICICI CC,Food and Drinks

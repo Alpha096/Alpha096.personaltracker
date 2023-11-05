@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="https://colorlib.com/etc/tb/Table_Responsive_v1/images/icons/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="static/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="static/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="static/animate.css">
+    <link rel="stylesheet" type="text/css" href="static/select2.min.css">
+    <link rel="stylesheet" type="text/css" href="static/perfect-scrollbar.css">
+    <link rel="stylesheet" type="text/css" href="static/util.css">
+    <link rel="stylesheet" type="text/css" href="static/main.css">
+    <meta name="robots" content="noindex, follow">
+    <script defer="" referrerpolicy="origin" src="static/s.js.download"></script><script nonce="2fe2e5ea-52b1-45fb-a614-c68be5ee61d8">(function(w,d){!function(bg,bh,bi,bj){bg[bi]=bg[bi]||{};bg[bi].executed=[];bg.zaraz={deferred:[],listeners:[]};bg.zaraz.q=[];bg.zaraz._f=function(bk){return async function(){var bl=Array.prototype.slice.call(arguments);bg.zaraz.q.push({m:bk,a:bl})}};for(const bm of["track","set","debug"])bg.zaraz[bm]=bg.zaraz._f(bm);bg.zaraz.init=()=>{var bn=bh.getElementsByTagName(bj)[0],bo=bh.createElement(bj),bp=bh.getElementsByTagName("title")[0];bp&&(bg[bi].t=bh.getElementsByTagName("title")[0].text);bg[bi].x=Math.random();bg[bi].w=bg.screen.width;bg[bi].h=bg.screen.height;bg[bi].j=bg.innerHeight;bg[bi].e=bg.innerWidth;bg[bi].l=bg.location.href;bg[bi].r=bh.referrer;bg[bi].k=bg.screen.colorDepth;bg[bi].n=bh.characterSet;bg[bi].o=(new Date).getTimezoneOffset();if(bg.dataLayer)for(const bt of Object.entries(Object.entries(dataLayer).reduce(((bu,bv)=>({...bu[1],...bv[1]})),{})))zaraz.set(bt[0],bt[1],{scope:"page"});bg[bi].q=[];for(;bg.zaraz.q.length;){const bw=bg.zaraz.q.shift();bg[bi].q.push(bw)}bo.defer=!0;for(const bx of[localStorage,sessionStorage])Object.keys(bx||{}).filter((bz=>bz.startsWith("_zaraz_"))).forEach((by=>{try{bg[bi]["z_"+by.slice(7)]=JSON.parse(bx.getItem(by))}catch{bg[bi]["z_"+by.slice(7)]=bx.getItem(by)}}));bo.referrerPolicy="origin";bo.src="/cdn-cgi/zaraz/s.js?z="+btoa(encodeURIComponent(JSON.stringify(bg[bi])));bn.parentNode.insertBefore(bo,bn)};["complete","interactive"].includes(bh.readyState)?zaraz.init():bg.addEventListener("DOMContentLoaded",zaraz.init)}(w,d,"zarazData","script");})(window,document);</script>
+    <link rel="stylesheet" type="text/css" href="static/main.css">
+</head>
+<body>
+    <div class="limiter">
+         <div class="container-table100">
+            <div class="wrap-table100">
+               <div class="table100">
+        <table>
+            <thead>
+                <tr class="table100-head">
+                        <th class="column1">Date</th>
+                        <th class="column2">Transaction Details</th>
+                        <th class="column3">Amount</th>
+                        <th class="column4">Transaction Type</th>
+                        <th class="column5">Account</th>
+                        <th class="column6">Category</th>
+                        <th class="column6">Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in data %}
+                <tr>
+                    <td class="column1">{{ row['Date'] }}</td>
+                    <td class="column2">{{ row['Transaction Details'] }}</td>
+                    <td class="column3">{{ row['Amount'] }}</td>
+                    <td class="column4">{{ row['Transaction Type'] }}</td>
+                    <td class="column5">{{ row['Account'] }}</td>
+                    <td class="editable" contenteditable="true" data-row-id="{{ loop.index }}">{{ row['Category'] }}</td>
+                    <td class="column6"><button onclick="updateValue(this)">Update</button></td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table><br>
+        <button onclick="submitTable()" class="button-40">Submit</button>
+    </div>
+            </div>
+         </div>
+         
+      </div>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script>
+       function updateValue(button) {
+            var row = button.closest('tr');
+            var newValue = row.querySelector('.editable').textContent;
+            
+            // Send the row and newValue to the server using AJAX
+            $.ajax({
+                type: 'POST',
+                url: '/update_value',
+                data: { row_index: row.rowIndex - 1, new_value: newValue },
+                success: function(data) {
+                    if (data.success) {
+                        alert(data.message);
+                    } else {
+                        alert('Unknown response from the server.');
+                    }
+                },
+                error: function(xhr, status, error) {
+                    console.error(xhr.responseText);
+                    alert('Error updating value: ' + error);
+                }
+            });
+        }
+
+            function submitTable() {
+                // Collect the updated data from the editable cells
+                var updatedData = [];
+                $('.editable').each(function (index) {
+                    updatedData.push($(this).text());
+                });
+
+                // Send the updated data to the server using AJAX
+                $.ajax({
+                    type: 'POST',
+                    url: '/submit_table',
+                    data: { updated_data: JSON.stringify(updatedData) },
+                    success: function(data) {
+                        if (data.success) {
+                            alert(data.message); // Display success message
+                            window.location.href = '/final_page'; // Redirect to final page
+                        } else {
+                            alert('Unknown response from the server.');
+                        }
+                    },
+                    error: function(xhr, status, error) {
+                        console.error(xhr.responseText);
+                        alert('Error updating value: ' + error);
+                    }
+                });
+            }
+        </script>
+</body>
+</html>
